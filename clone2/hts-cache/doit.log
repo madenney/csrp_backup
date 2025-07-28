@@ -1,0 +1,8 @@
+https://www.communitysafetyproject.org/ -O . -%v -%! -c0 -s0 -K0 -w -r10 -%e0 -%P -%F ""
+File generated automatically on Sat, 03 May 2025 21:59:00, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+

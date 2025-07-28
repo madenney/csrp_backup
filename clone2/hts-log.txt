@@ -1,0 +1,21 @@
+HTTrack3.49-2+libhtsjava.so.2 launched on Sat, 03 May 2025 21:59:00 at https://www.communitysafetyproject.org/
+(httrack https://www.communitysafetyproject.org/ -O . -%v -%! -c0 -s0 -K0 -w -r10 -%e0 -%P -%F  )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:59:00	Warning: 	* security warning: !!! BYPASSING SECURITY LIMITS - MONITOR THIS SESSION WITH EXTREME CARE !!!
+21:59:30	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/POST (from https://www.communitysafetyproject.org/)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/about-us/POST (from https://www.communitysafetyproject.org/about-us/services-we-provide)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/about-us/"https://forms.gle/7gwwyRKYaww12ff36" (from https://www.communitysafetyproject.org/about-us/roadmap)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/about-us/"http://discord.gg/v6HYxvYR5S" (from https://www.communitysafetyproject.org/about-us/roadmap)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/contact-us/POST (from https://www.communitysafetyproject.org/contact-us/general)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/contact-us/"https://twitter.com/findCSRP?ref_src=twsrc%5Etfw%22> (from https://www.communitysafetyproject.org/contact-us/general)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/contact-us/"https://platform.twitter.com/widgets.js" (from https://www.communitysafetyproject.org/contact-us/general)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/documents/POST (from https://www.communitysafetyproject.org/documents/public-code-of-conduct)
+21:59:39	Error: 	"Not Found" (404) at link https://www.communitysafetyproject.org/dev-notes/POST (from https://www.communitysafetyproject.org/dev-notes/dev-notes-october-1st-2024)
+
+HTTrack Website Copier/3.49-2 mirror complete in 39 seconds : 38 links scanned, 29 files written (3526302 bytes overall) [846552 bytes received at 21706 bytes/sec], 4434550 bytes transferred using HTTP compression in 38 files, ratio 16%
+(9 errors, 1 warnings, 0 messages)
